@@ -3,9 +3,9 @@
 An exploration of Edward McQuarrie's novel data set of stock and bond returns going back to 1793.  
   
 Select Questions  
-&emsp; - Do stocks outperform bonds?
-&emsp; - Are there significant periods where bonds outperformed?
-&emsp; - What are the maximum and minimum returns one can expect?
+&emsp; - Do stocks outperform bonds?  
+&emsp; - Are there significant periods where bonds outperformed?  
+&emsp; - What are the maximum and minimum returns one can expect?  
 
 
 ## Background
@@ -20,11 +20,11 @@ underlies Siegel's key findings.
 
 ## Data  
   
-&ensp; Edward McQuarrie's Working Paper <ins>Stocks for the Long Run? Sometimes Yes. Sometimes No.</ins> 
+&ensp; Edward McQuarrie's Working Paper <ins>Stocks for the Long Run? Sometimes Yes. Sometimes No.</ins>  
   
-&emsp; https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805927
-
-&ensp; Original Spreadsheet Data can be found on McQuarrie's website https://www.edwardfmcquarrie.com/?p=579
+&emsp; https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805927  
+  
+&ensp; Original Spreadsheet Data can be found on McQuarrie's website https://www.edwardfmcquarrie.com/?p=579  
   
 ## Cleaning  
   
