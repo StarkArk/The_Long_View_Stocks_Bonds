@@ -1,11 +1,11 @@
 # Overview  
   
-And exploration of Edward McQuarrie's novel data set of stock and bond returns going back to 1793.  
+An exploration of Edward McQuarrie's novel data set of stock and bond returns going back to 1793.  
   
 Select Questions  
 emsp; - Do stocks outperform bonds?
 emsp; - Are there significant periods where bonds outperformed?
-emsp; - What are maximum and minimum returns one can expect?
+emsp; - What are the maximum and minimum returns one can expect?
 
 
 ## Background
