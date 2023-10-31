@@ -39,5 +39,5 @@ can be found in this repository.
   
 ## Summary Conclusion  
   
-Except for some significant periods in the 1800's stocks tended to outperform bonds. Siegel's empirical claim of stock outperformance stands up
+Except for some significant periods in the 1800's, stocks tended to outperform bonds. Siegel's empirical claim of stock outperformance stands up
 to the new scrutiny, mostly. Bonds did quite well with respect to stocks during much of the 1800's but not so well in the 1900's.
