@@ -44,7 +44,7 @@ Initial cleaning and data wrangling were done in excel. The resulting spreadshee
   
 #### Do Stocks Outperform? Yes, but sometimes you may have to wait.  
   
-![Summary Table](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/blob/main/Images/summary_returns_table.png)
+             ![Summary Table](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/blob/main/Images/summary_returns_table.png)
   
 ![Stocks - Best and Worst Rolling Periods](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/blob/main/Images/stocks_best_worst_years_rolling_1to100.png)
 
