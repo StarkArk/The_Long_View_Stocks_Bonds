@@ -1,6 +1,8 @@
+## The Long Long View - 230 years of US Stock and Bond Returns 
+
 ![US Real Returns 1793-Present](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/blob/main/Images/stock_bond_real_comparison_history.png)
 
-# Overview  
+## Overview  
   
 An exploration of Edward McQuarrie's novel data set of stock and bond returns going back to 1793.  
   
