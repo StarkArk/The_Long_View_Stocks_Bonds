@@ -1,4 +1,4 @@
-## The Long Long View - 230 years of US Stock and Bond Returns 
+## The Long Long View - 230+ years of US Stock and Bond Returns 
 
 ![US Real Returns 1793-Present](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/blob/main/Images/stock_bond_real_comparison_history.png)
 
@@ -14,8 +14,8 @@ An exploration of Edward McQuarrie's novel data set of stock and bond returns go
 
 ## Background
   
-Do stocks outperform bonds? In 1994 Jeremy Siegel published his widely admired book "Stocks for the Long Run". At the heart which is
-the empirical claim that stocks outperform bonds. He backs this claim with empirical evidence of stock/bond returns stretching back to
+Do stocks outperform bonds? In 1994 Jeremy Siegel published his widely admired book "Stocks for the Long Run". At the heart of which is
+the empirical claim that stocks outperform bonds. He backs this claim with  stock/bond returns stretching back to
 1802. The book is enormously popular in the investor community and currently in its 6th edition update.  
   
 In 2021 Edward McQuarrie, a retired professor, recreated Siegel's research making select updates and "changes" to his historical data.
@@ -32,10 +32,10 @@ underlies Siegel's key findings.
   
 ## Cleaning  
   
-Starting with McQuarrie's Data, more data was added for years 2020-2024 consistent with the methodology he used.  
+Starting with McQuarrie's Data, more data was added for years 2020-2026 consistent with the methodology he used.  
     
-- Stock returns were extended using the total returns of the etf VTI(Vanguard Total Stock Market Index Fund).  
-- Bond returns were taken from the etf VCLT(Vanguard Long-Term Corporate Bond Index Fund) 
+- Stock returns are extended using the total returns of the etf VTI(Vanguard Total Stock Market Index Fund).  
+- Bond returns are taken from the etf VCLT(Vanguard Long-Term Corporate Bond Index Fund) 
 - Yearly inflation(cpi) was obtained from the Department of Labor website  
   
 Initial cleaning and data wrangling were done in excel. The resulting spreadsheet can be found [here](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/blob/main/Data/mcquarrie_real_stock_bond_returns_prepped_csv.csv) 
