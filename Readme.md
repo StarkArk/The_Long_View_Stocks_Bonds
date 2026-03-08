@@ -55,7 +55,7 @@ Initial cleaning and data wrangling were done in excel. The resulting spreadshee
 
 Another 2 dozen or so charts are featured in the images folder. 
 
-![More Charts ](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/tree/main/Images). 
+[More Charts ](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/tree/main/Images). 
 
 ## Summary Conclusion  
   
