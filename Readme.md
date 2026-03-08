@@ -53,7 +53,11 @@ Initial cleaning and data wrangling were done in excel. The resulting spreadshee
 ![Bonds - Best and Worst Rolling Periods](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/blob/main/Images/bonds_best_worst_years_rolling_1to100_perc.png). 
   
 
+Another 2 dozen or so charts are featured in the images folder. 
+
+![More Charts ](https://github.com/StarkArk/The_Long_View_Stocks_Bonds/tree/main/Images). 
+
 ## Summary Conclusion  
   
 Except for some significant periods in the 1800's, stocks tended to outperform bonds. Siegel's empirical claim of stock outperformance stands up
-to the new scrutiny, mostly. Bonds did quite well with respect to stocks during much of the 1800's but not so well in the 1900's.
+to the new scrutiny, mostly. Bonds did quite well with respect to stocks during much of the 1800's but not so well in the 1900's. 
